@@ -1,0 +1,58 @@
+{
+  "name": "DISCORD.JS_TUTORIAL",
+  "version": "0.0.1",
+  "description": "SUBSCRIBE TO MY CHANNEL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.2.1",
+    "canvas": "^2.6.1",
+    "discord-akairo": "^8.1.0",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-canvas": "^1.3.2",
+    "discord-embeds-pages-buttons": "^1.3.0",
+    "discord-player": "^3.2.1",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.5.1",
+    "discord.js-slash-command": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.2",
+    "mal-scraper": "^2.11.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "opusscript": "^0.0.7",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "quickmongo": "^3.0.0",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "sourcebin_js": "^0.0.2",
+    "srod-v2": "^1.0.1",
+    "srod-v3": "^1.0.2",
+    "tinyurl": "^1.1.7",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.8.3",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/parasop/discors.js-bot-v12"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
